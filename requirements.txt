@@ -1,2 +1,10 @@
 # Astro Runtime includes the following pre-installed providers packages: https://docs.astronomer.io/astro/runtime-image-architecture#provider-packages
 apache-airflow-providers-common-sql==1.11.0  # pin provider versions!
+requests
+pandas
+duckdb
+pyarrow
+fastparquet
+plotly
+streamlit
+tenacity
